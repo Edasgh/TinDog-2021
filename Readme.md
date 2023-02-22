@@ -7,7 +7,7 @@ This project is created with Tailwind CSS(my first Tailwind project)
 This project is inpired by Dr. Angela Yu's Web dev course on Udemy
 
 
-TinDog link:(Will be uploaded soon)
+TinDog link:https://edasgh.github.io/TinDog-2021-Responsive/
 
 (Fully Responsive)
 
